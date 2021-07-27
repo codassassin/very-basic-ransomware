@@ -16,7 +16,7 @@ $ cryptography~=2.9.2
 * [ATTACKER] Run the fernet key decryption file to decrypt the EMAIL_ME.txt(be on your desktop) file, this will give you a PUT_ME_ON_DESKTOP.txt file, once you put this on the desktop the ransomware will decrypt the encrypted files in that directory.
 
 
-#### Disclaimer
+### Disclaimer !!
 
 > This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
 > illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
