@@ -3,8 +3,8 @@ This is a very basic ransomware created using Python
 
 ## requirements
 ```
-$ requests~=2.24.0
-$ cryptography~=2.9.2
+requests~=2.24.0
+cryptography~=2.9.2
 ```
 
 ## How to test the RANSOMWARE
